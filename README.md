@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning : Software Development
 - 📫 How to reach me - dikshajoshi240404@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Coding can make you ignore everybody!
+- ⚡ Fun fact: Coding is not a hobby, its a lifestyle
 
